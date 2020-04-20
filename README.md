@@ -1,21 +1,18 @@
 # SystemAnalyzer
-A simple System Analyzer that uses wxWidgets V(A free portable GUI library), PortAudio (A free portable Audio I/O library) and the SigLib DSP Library. This application includes the full GUI source code.
-
-
 
             Numerix System Analyzer
 
 
-                  Version 2.21
+                  Version 2.22
 
-                   23/09/2017
+                   20/04/2020
 
 
 
 INTRODUCTION
 
-Numerix Signal Analyzer (SA) is a simple system analyzer that is designed to work
-with the following libraries :
+Numerix Signal Analyzer (SA) is a simple system analyzer that uses the following libraries :
+
     SigLib DSP Library (http://www.numerix-dsp.com/siglib/), a cross platform DSP library.
     Numerix GUI library (http://www.numerix-dsp.com), a cross platform graph library.
     wxWindow (http://www.wxWindows.org) cross platform GUI library.
@@ -47,6 +44,8 @@ HISTORY NOTES
                             Updated to support wxWidgets v3.0.3
                             Updated to support PortAudio v190600_20161030
     23/09/2017    V2.21     Linear graph x axis scale updated
+    20/04/2020    V2.22     Documentation updated
+
 
 INSTALLATION
 
@@ -170,4 +169,4 @@ Sigma Numerix Ltd.,
 Email : support@numerix-dsp.com
 WWW : http://www.numerix-dsp.com
 
-(C) Copyright 2004 Numerix Ltd.
+Copyright (C) 2004 to 2020 Sigma Numerix Ltd.
